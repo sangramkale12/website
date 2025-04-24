@@ -1,0 +1,29 @@
+.username{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:5px,rgb(206, 152, 85),solid;
+    border-radius: 25px;
+    height:350px;
+    width:280px
+    
+    
+    
+}
+img{
+    height: 4cm;
+    width:4cm;
+}
+input{
+    margin-top: 25px;
+    border-radius: 25px;
+    height: 25px;
+}
+button{
+    margin-top: 10px;
+    height: 25px;
+    width:100px;
+    background-color:#4f5bd5;
+    border-radius: 25px;
+}
